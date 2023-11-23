@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0M1mnwo99PVnK3EIccKKJxAs6uFnR1RU0l7hg7kagGk05YZnuHD32tFc437pK6/flzrTtgh/A84+VDq7KzHUng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\engbe\\source\\repos\\Bibliotekssystem\\Bibliotekssystem\\Bibliotekssystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\engbe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\engbe\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\engbe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\engbe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
